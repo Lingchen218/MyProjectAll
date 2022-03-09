@@ -1,6 +1,6 @@
 name: T
 project:
-  - name: LearnAssistant 
+  name: LearnAssistant 
   revision:trunk
   path: test_LearnAssistant
   url: 'https://github.com/Lingchen218/LearnAssistant'
