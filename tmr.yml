@@ -1,5 +1,5 @@
 name: T
-project:
+projects:
     - name: LearnAssistant 
     revision:trunk
     path: test_LearnAssistant
