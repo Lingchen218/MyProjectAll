@@ -1,7 +1,12 @@
 name: T
 project:
-  name: LearnAssistant 
-  revision:trunk
-  path: test_LearnAssistant
-  url: 'https://github.com/Lingchen218/LearnAssistant'
-  checkoutStrategy: default
+    - name: LearnAssistant 
+    revision:trunk
+    path: test_LearnAssistant
+    url: 'https://github.com/Lingchen218/LearnAssistant'
+    checkoutStrategy: default
+    - name: TBautoessage 
+    revision:main
+    path: test_TBautoessage
+    url: 'https://github.com/Lingchen218/TBautoessage'
+    checkoutStrategy: default
