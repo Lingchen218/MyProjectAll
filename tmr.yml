@@ -3,10 +3,10 @@ projects:
     - name: LearnAssistant 
     revision:trunk
     path: test_LearnAssistant
-    url: 'https://github.com/Lingchen218/LearnAssistant'
+    url: 'https://github.com/Lingchen218/LearnAssistant.git'
     checkoutStrategy: default
     - name: TBautoessage 
     revision:main
     path: test_TBautoessage
-    url: 'https://github.com/Lingchen218/TBautoessage'
+    url: 'https://github.com/Lingchen218/TBautoessage.git'
     checkoutStrategy: default
